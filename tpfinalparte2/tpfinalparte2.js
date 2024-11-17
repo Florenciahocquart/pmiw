@@ -7,7 +7,7 @@ INTEGRANTES:
  LEGAJO: 94747/4
  Ladines Romero Camila Amaya
  LEGAJO: 119060/
-Link a video (individual):
+Link a video (individual): https://youtu.be/divlmMMPhTQ
 */
 
 let pr = new principal(); 
